@@ -1,6 +1,6 @@
 from rest_framework import serializers
 
-from snippets.models import LANGUAGE_CHOICE, STYLE_CHOICE, Snippet
+from snippets.models import Snippet
 
 
 class SnippetSerializer(serializers.ModelSerializer):
