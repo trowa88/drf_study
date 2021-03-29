@@ -8,7 +8,7 @@ httpie==0.9.9
 idna==2.5
 packaging==16.8
 psycopg2==2.7.1
-Pygments==2.2.0
+Pygments==2.7.4
 pyparsing==2.2.0
 pytz==2017.2
 requests==2.18.1
